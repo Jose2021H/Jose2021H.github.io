@@ -1,8 +1,5 @@
 
 <html lang="en">
-layout: page
-title: "castro"
-permalink: /politicasdeprivacida
 
 <body>
 
